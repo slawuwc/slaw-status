@@ -8,7 +8,7 @@
     "uptime": "98.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.67%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "98.66%",
     "time": 2494,
     "timeDay": 1076,
@@ -34,18 +34,17 @@
     "icon": "https://favicons.githubusercontent.com/www.slawuwc.org",
     "slug": "slaw-main-site-www",
     "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "98.64%",
+    "uptime": "98.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "98.66%",
     "time": 1419,
     "timeDay": 834,
     "timeWeek": 827,
     "timeMonth": 1237,
     "timeYear": 1419,
     "dailyMinutesDown": {
-      "2022-09-15": 8,
       "2022-09-11": 22,
       "2022-09-09": 23,
       "2022-09-08": 18,
@@ -67,7 +66,7 @@
     "url": "https://discover.slawuwc.org",
     "icon": "https://favicons.githubusercontent.com/discover.slawuwc.org",
     "slug": "slaw-discover",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -78,6 +77,8 @@
     "timeWeek": 178,
     "timeMonth": 191,
     "timeYear": 195,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   }
 ]
