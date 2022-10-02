@@ -2,11 +2,11 @@
   {
     "name": "SLAW Main Site",
     "url": "https://slawuwc.org",
-    "icon": "https://favicons.githubusercontent.com/slawuwc.org",
+    "icon": "https://icons.duckduckgo.com/ip3/slawuwc.org.ico",
     "slug": "slaw-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "96.05%",
-    "uptimeDay": "60.75%",
+    "uptimeDay": "69.18%",
     "uptimeWeek": "79.82%",
     "uptimeMonth": "95.19%",
     "uptimeYear": "96.05%",
@@ -16,6 +16,7 @@
     "timeMonth": 1389,
     "timeYear": 1995,
     "dailyMinutesDown": {
+      "2022-10-02": 0,
       "2022-10-01": 564,
       "2022-09-30": 282,
       "2022-09-29": 377,
@@ -38,7 +39,7 @@
   {
     "name": "SLAW Main Site (www)",
     "url": "https://www.slawuwc.org",
-    "icon": "https://favicons.githubusercontent.com/www.slawuwc.org",
+    "icon": "https://icons.duckduckgo.com/ip3/www.slawuwc.org.ico",
     "slug": "slaw-main-site-www",
     "status": "up",
     "uptime": "98.12%",
@@ -78,7 +79,7 @@
   {
     "name": "SLAW Discover",
     "url": "https://discover.slawuwc.org",
-    "icon": "https://favicons.githubusercontent.com/discover.slawuwc.org",
+    "icon": "https://icons.duckduckgo.com/ip3/discover.slawuwc.org.ico",
     "slug": "slaw-discover",
     "status": "up",
     "uptime": "100.00%",
