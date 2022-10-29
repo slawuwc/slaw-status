@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/slawuwc.org.ico",
     "slug": "slaw-main-site",
     "status": "up",
-    "uptime": "95.22%",
-    "uptimeDay": "86.41%",
-    "uptimeWeek": "81.14%",
-    "uptimeMonth": "88.29%",
-    "uptimeYear": "95.22%",
+    "uptime": "95.21%",
+    "uptimeDay": "87.97%",
+    "uptimeWeek": "81.16%",
+    "uptimeMonth": "88.25%",
+    "uptimeYear": "95.21%",
     "time": 1890,
-    "timeDay": 893,
-    "timeWeek": 2242,
-    "timeMonth": 1845,
+    "timeDay": 829,
+    "timeWeek": 2265,
+    "timeMonth": 1849,
     "timeYear": 1890,
     "dailyMinutesDown": {
-      "2022-10-28": 175,
+      "2022-10-28": 173,
       "2022-10-27": 267,
       "2022-10-26": 119,
       "2022-10-25": 381,
@@ -31,7 +31,7 @@
       "2022-10-16": 352,
       "2022-10-15": 166,
       "2022-10-14": 382,
-      "2022-10-13": 68
+      "2022-10-13": 90
     }
   },
   {
@@ -40,18 +40,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.slawuwc.org.ico",
     "slug": "slaw-main-site-www",
     "status": "up",
-    "uptime": "96.63%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "93.34%",
+    "uptime": "96.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "93.35%",
     "uptimeMonth": "93.61%",
-    "uptimeYear": "96.63%",
+    "uptimeYear": "96.62%",
     "time": 4947,
-    "timeDay": 864,
-    "timeWeek": 4905,
-    "timeMonth": 6450,
+    "timeDay": 710,
+    "timeWeek": 5033,
+    "timeMonth": 6491,
     "timeYear": 4947,
     "dailyMinutesDown": {
-      "2022-10-28": 1,
       "2022-10-27": 77,
       "2022-10-26": 42,
       "2022-10-25": 197,
@@ -93,7 +92,8 @@
       "2022-08-22": 75,
       "2022-08-20": 23,
       "2022-08-19": 27,
-      "2022-08-18": 103
+      "2022-08-18": 103,
+      "2022-08-17": 21
     }
   },
   {
@@ -108,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 274,
-    "timeDay": 297,
-    "timeWeek": 221,
-    "timeMonth": 395,
+    "timeDay": 311,
+    "timeWeek": 217,
+    "timeMonth": 398,
     "timeYear": 274,
     "dailyMinutesDown": {}
   }
