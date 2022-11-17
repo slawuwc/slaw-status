@@ -6,17 +6,17 @@
     "slug": "slaw-main-site",
     "status": "up",
     "uptime": "97.10%",
-    "uptimeDay": "86.34%",
-    "uptimeWeek": "85.56%",
-    "uptimeMonth": "91.09%",
+    "uptimeDay": "87.31%",
+    "uptimeWeek": "85.70%",
+    "uptimeMonth": "91.06%",
     "uptimeYear": "97.10%",
-    "time": 1873,
-    "timeDay": 5361,
-    "timeWeek": 1985,
-    "timeMonth": 1898,
-    "timeYear": 1873,
+    "time": 1871,
+    "timeDay": 5739,
+    "timeWeek": 1986,
+    "timeMonth": 1903,
+    "timeYear": 1871,
     "dailyMinutesDown": {
-      "2022-11-16": 196,
+      "2022-11-16": 182,
       "2022-11-15": 60,
       "2022-11-14": 228,
       "2022-11-13": 297,
@@ -37,7 +37,7 @@
       "2022-10-29": 88,
       "2022-10-28": 173,
       "2022-10-27": 267,
-      "2022-10-26": 57
+      "2022-10-26": 83
     }
   },
   {
@@ -46,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.slawuwc.org.ico",
     "slug": "slaw-main-site-www",
     "status": "up",
-    "uptime": "96.96%",
-    "uptimeDay": "88.65%",
-    "uptimeWeek": "94.70%",
-    "uptimeMonth": "94.11%",
-    "uptimeYear": "96.96%",
-    "time": 4586,
-    "timeDay": 3140,
-    "timeWeek": 2482,
+    "uptime": "96.93%",
+    "uptimeDay": "89.62%",
+    "uptimeWeek": "94.84%",
+    "uptimeMonth": "94.14%",
+    "uptimeYear": "96.93%",
+    "time": 4574,
+    "timeDay": 3139,
+    "timeWeek": 2478,
     "timeMonth": 4942,
-    "timeYear": 4586,
+    "timeYear": 4574,
     "dailyMinutesDown": {
-      "2022-11-16": 164,
+      "2022-11-16": 150,
       "2022-11-15": 25,
       "2022-11-14": 25,
       "2022-11-13": 138,
@@ -98,7 +98,7 @@
       "2022-10-02": 55,
       "2022-10-01": 159,
       "2022-09-30": 31,
-      "2022-09-29": 121
+      "2022-09-29": 179
     }
   },
   {
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 141,
-    "timeWeek": 167,
-    "timeMonth": 380,
-    "timeYear": 255,
+    "time": 256,
+    "timeDay": 296,
+    "timeWeek": 173,
+    "timeMonth": 384,
+    "timeYear": 256,
     "dailyMinutesDown": {}
   }
 ]
