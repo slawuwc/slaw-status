@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/slawuwc.org.ico",
     "slug": "slaw-main-site",
     "status": "up",
-    "uptime": "97.55%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "94.72%",
-    "uptimeMonth": "91.07%",
-    "uptimeYear": "97.55%",
-    "time": 1844,
-    "timeDay": 718,
-    "timeWeek": 853,
-    "timeMonth": 1888,
-    "timeYear": 1844,
+    "uptime": "97.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.82%",
+    "uptimeMonth": "90.90%",
+    "uptimeYear": "97.52%",
+    "time": 1842,
+    "timeDay": 818,
+    "timeWeek": 858,
+    "timeMonth": 1892,
+    "timeYear": 1842,
     "dailyMinutesDown": {
-      "2022-12-04": 10,
       "2022-12-03": 38,
       "2022-12-02": 70,
       "2022-12-01": 197,
@@ -40,7 +39,7 @@
       "2022-11-13": 297,
       "2022-11-12": 347,
       "2022-11-11": 195,
-      "2022-11-10": 46
+      "2022-11-10": 132
     }
   },
   {
@@ -50,17 +49,16 @@
     "slug": "slaw-main-site-www",
     "status": "up",
     "uptime": "97.12%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "94.98%",
-    "uptimeMonth": "93.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.08%",
+    "uptimeMonth": "93.44%",
     "uptimeYear": "97.12%",
-    "time": 3521,
-    "timeDay": 621,
-    "timeWeek": 876,
-    "timeMonth": 1820,
-    "timeYear": 3521,
+    "time": 3515,
+    "timeDay": 750,
+    "timeWeek": 705,
+    "timeMonth": 1806,
+    "timeYear": 3515,
     "dailyMinutesDown": {
-      "2022-12-04": 10,
       "2022-12-03": 38,
       "2022-12-02": 70,
       "2022-12-01": 170,
@@ -101,7 +99,8 @@
       "2022-10-22": 77,
       "2022-10-21": 22,
       "2022-10-20": 62,
-      "2022-10-19": 333
+      "2022-10-19": 333,
+      "2022-10-18": 37
     }
   },
   {
@@ -115,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 215,
-    "timeWeek": 220,
-    "timeMonth": 216,
-    "timeYear": 253,
+    "time": 252,
+    "timeDay": 150,
+    "timeWeek": 217,
+    "timeMonth": 219,
+    "timeYear": 252,
     "dailyMinutesDown": {}
   }
 ]
