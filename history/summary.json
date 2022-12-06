@@ -4,18 +4,19 @@
     "url": "https://slawuwc.org",
     "icon": "https://icons.duckduckgo.com/ip3/slawuwc.org.ico",
     "slug": "slaw-main-site",
-    "status": "up",
-    "uptime": "97.56%",
-    "uptimeDay": "93.67%",
+    "status": "down",
+    "uptime": "97.61%",
+    "uptimeDay": "93.66%",
     "uptimeWeek": "94.44%",
-    "uptimeMonth": "90.98%",
-    "uptimeYear": "97.56%",
+    "uptimeMonth": "91.16%",
+    "uptimeYear": "97.61%",
     "time": 1834,
     "timeDay": 878,
     "timeWeek": 864,
     "timeMonth": 1889,
     "timeYear": 1834,
     "dailyMinutesDown": {
+      "2022-12-06": 0,
       "2022-12-05": 92,
       "2022-12-03": 38,
       "2022-12-02": 70,
@@ -39,8 +40,7 @@
       "2022-11-14": 228,
       "2022-11-13": 297,
       "2022-11-12": 347,
-      "2022-11-11": 195,
-      "2022-11-10": 3
+      "2022-11-11": 121
     }
   },
   {
@@ -48,18 +48,19 @@
     "url": "https://www.slawuwc.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.slawuwc.org.ico",
     "slug": "slaw-main-site-www",
-    "status": "up",
-    "uptime": "97.24%",
-    "uptimeDay": "93.70%",
+    "status": "down",
+    "uptime": "97.26%",
+    "uptimeDay": "93.69%",
     "uptimeWeek": "94.71%",
-    "uptimeMonth": "93.28%",
-    "uptimeYear": "97.24%",
-    "time": 3466,
-    "timeDay": 1158,
-    "timeWeek": 812,
-    "timeMonth": 1776,
-    "timeYear": 3466,
+    "uptimeMonth": "93.27%",
+    "uptimeYear": "97.26%",
+    "time": 3459,
+    "timeDay": 1091,
+    "timeWeek": 803,
+    "timeMonth": 1770,
+    "timeYear": 3459,
     "dailyMinutesDown": {
+      "2022-12-06": 0,
       "2022-12-05": 91,
       "2022-12-03": 38,
       "2022-12-02": 70,
@@ -101,7 +102,7 @@
       "2022-10-22": 77,
       "2022-10-21": 22,
       "2022-10-20": 62,
-      "2022-10-19": 130
+      "2022-10-19": 90
     }
   },
   {
