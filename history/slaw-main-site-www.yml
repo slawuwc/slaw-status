@@ -1,7 +1,7 @@
 url: https://www.slawuwc.org
-status: up
-code: 200
-responseTime: 803
-lastUpdated: 2022-12-20T02:46:51.627Z
+status: down
+code: 500
+responseTime: 28361
+lastUpdated: 2022-12-20T22:21:13.065Z
 startTime: Mon Aug 15 2022 10:38:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
