@@ -6,17 +6,17 @@
     "slug": "slaw-main-site",
     "status": "up",
     "uptime": "97.80%",
-    "uptimeDay": "92.16%",
-    "uptimeWeek": "97.03%",
-    "uptimeMonth": "94.00%",
+    "uptimeDay": "92.84%",
+    "uptimeWeek": "97.13%",
+    "uptimeMonth": "94.02%",
     "uptimeYear": "97.80%",
-    "time": 1813,
-    "timeDay": 883,
-    "timeWeek": 1176,
-    "timeMonth": 1301,
-    "timeYear": 1813,
+    "time": 1812,
+    "timeDay": 893,
+    "timeWeek": 1177,
+    "timeMonth": 1303,
+    "timeYear": 1812,
     "dailyMinutesDown": {
-      "2022-12-20": 113,
+      "2022-12-20": 103,
       "2022-12-18": 30,
       "2022-12-17": 27,
       "2022-12-15": 114,
@@ -50,7 +50,7 @@
       "2022-11-16": 182,
       "2022-11-15": 60,
       "2022-11-14": 228,
-      "2022-11-13": 17
+      "2022-11-13": 33
     }
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.slawuwc.org.ico",
     "slug": "slaw-main-site-www",
     "status": "up",
-    "uptime": "97.48%",
-    "uptimeDay": "97.50%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "94.86%",
-    "uptimeYear": "97.48%",
-    "time": 3384,
-    "timeDay": 7768,
-    "timeWeek": 7006,
-    "timeMonth": 1564,
-    "timeYear": 3384,
+    "uptime": "97.41%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "94.88%",
+    "uptimeYear": "97.41%",
+    "time": 3380,
+    "timeDay": 7766,
+    "timeWeek": 7002,
+    "timeMonth": 1447,
+    "timeYear": 3380,
     "dailyMinutesDown": {
-      "2022-12-20": 36,
+      "2022-12-20": 28,
       "2022-12-15": 113,
       "2022-12-12": 45,
       "2022-12-11": 89,
@@ -115,7 +115,7 @@
       "2022-10-27": 77,
       "2022-10-26": 42,
       "2022-10-25": 197,
-      "2022-10-24": 41
+      "2022-10-24": 176
     }
   },
   {
@@ -129,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 287,
-    "timeWeek": 220,
-    "timeMonth": 230,
-    "timeYear": 248,
+    "time": 247,
+    "timeDay": 47,
+    "timeWeek": 200,
+    "timeMonth": 228,
+    "timeYear": 247,
     "dailyMinutesDown": {}
   }
 ]
