@@ -6,17 +6,16 @@
     "slug": "slaw-main-site",
     "status": "up",
     "uptime": "98.02%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "97.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "97.23%",
     "uptimeYear": "98.02%",
-    "time": 1822,
-    "timeDay": 1037,
-    "timeWeek": 1431,
-    "timeMonth": 1611,
-    "timeYear": 1822,
+    "time": 1821,
+    "timeDay": 898,
+    "timeWeek": 1296,
+    "timeMonth": 1621,
+    "timeYear": 1821,
     "dailyMinutesDown": {
-      "2023-01-03": 8,
       "2022-12-31": 35,
       "2022-12-29": 36,
       "2022-12-27": 18,
@@ -57,7 +56,7 @@
       "2022-11-17": 425,
       "2022-11-16": 182,
       "2022-11-15": 60,
-      "2022-11-14": 16
+      "2022-11-14": 34
     }
   },
   {
@@ -66,18 +65,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.slawuwc.org.ico",
     "slug": "slaw-main-site-www",
     "status": "up",
-    "uptime": "97.79%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "98.06%",
-    "uptimeYear": "97.79%",
-    "time": 3349,
-    "timeDay": 10054,
-    "timeWeek": 3550,
-    "timeMonth": 2309,
-    "timeYear": 3349,
+    "uptime": "97.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "97.77%",
+    "time": 3344,
+    "timeDay": 10026,
+    "timeWeek": 3549,
+    "timeMonth": 2350,
+    "timeYear": 3344,
     "dailyMinutesDown": {
-      "2023-01-03": 7,
       "2022-12-31": 33,
       "2022-12-29": 17,
       "2022-12-24": 31,
@@ -125,7 +123,7 @@
       "2022-10-31": 29,
       "2022-10-27": 77,
       "2022-10-26": 42,
-      "2022-10-25": 22
+      "2022-10-25": 71
     }
   },
   {
@@ -139,11 +137,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 270,
-    "timeWeek": 229,
-    "timeMonth": 215,
-    "timeYear": 245,
+    "time": 244,
+    "timeDay": 162,
+    "timeWeek": 201,
+    "timeMonth": 213,
+    "timeYear": 244,
     "dailyMinutesDown": {}
   }
 ]
