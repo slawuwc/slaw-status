@@ -144,17 +144,15 @@
     "slug": "slaw-discover",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
     "timeDay": 171,
     "timeWeek": 141,
     "timeMonth": 200,
     "timeYear": 239,
-    "dailyMinutesDown": {
-      "2023-01-19": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
