@@ -94,9 +94,9 @@
     "url": "https://www.slawuwc.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.slawuwc.org.ico",
     "slug": "slaw-main-site-www",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "96.86%",
+    "uptimeDay": "96.84%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "98.60%",
@@ -162,7 +162,7 @@
       "2022-11-20": 35,
       "2022-11-19": 18,
       "2022-11-18": 208,
-      "2022-11-17": 225
+      "2022-11-17": 203
     }
   },
   {
