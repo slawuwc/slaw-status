@@ -16,7 +16,7 @@
     "timeMonth": 1209,
     "timeYear": 1955,
     "dailyMinutesDown": {
-      "2023-08-13": 503,
+      "2023-08-13": 512,
       "2023-08-12": 1084,
       "2023-08-11": 939,
       "2023-08-10": 1060,
@@ -202,12 +202,12 @@
     "url": "https://www.slawuwc.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.slawuwc.org.ico",
     "slug": "slaw-main-site-www",
-    "status": "up",
-    "uptime": "56.90%",
-    "uptimeDay": "34.27%",
-    "uptimeWeek": "14.48%",
-    "uptimeMonth": "1.42%",
-    "uptimeYear": "56.90%",
+    "status": "down",
+    "uptime": "56.91%",
+    "uptimeDay": "34.88%",
+    "uptimeWeek": "14.56%",
+    "uptimeMonth": "1.44%",
+    "uptimeYear": "56.91%",
     "time": 3420,
     "timeDay": 699,
     "timeWeek": 978,
@@ -390,8 +390,7 @@
       "2023-01-20": 33,
       "2023-01-19": 23,
       "2023-01-17": 16,
-      "2023-01-16": 58,
-      "2023-01-15": 35
+      "2023-01-16": 58
     }
   },
   {
