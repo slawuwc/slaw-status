@@ -6,17 +6,17 @@
     "slug": "slaw-main-site",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "94.96%",
-    "uptimeWeek": "94.53%",
-    "uptimeMonth": "91.76%",
+    "uptimeDay": "95.53%",
+    "uptimeWeek": "94.94%",
+    "uptimeMonth": "91.73%",
     "uptimeYear": "99.31%",
     "time": 1731,
-    "timeDay": 693,
+    "timeDay": 708,
     "timeWeek": 913,
     "timeMonth": 923,
     "timeYear": 1681,
     "dailyMinutesDown": {
-      "2023-08-28": 72,
+      "2023-08-28": 64,
       "2023-08-27": 38,
       "2023-08-26": 58,
       "2023-08-25": 94,
@@ -31,7 +31,7 @@
       "2023-08-16": 147,
       "2023-08-15": 854,
       "2023-08-14": 898,
-      "2023-08-13": 733
+      "2023-08-13": 757
     }
   },
   {
@@ -42,7 +42,7 @@
     "status": "up",
     "uptime": "99.31%",
     "uptimeDay": "77.55%",
-    "uptimeWeek": "91.20%",
+    "uptimeWeek": "91.53%",
     "uptimeMonth": "91.35%",
     "uptimeYear": "99.28%",
     "time": 2814,
