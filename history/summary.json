@@ -6,17 +6,16 @@
     "slug": "slaw-main-site",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "97.44%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "99.34%",
     "time": 1704,
     "timeDay": 908,
     "timeWeek": 1013,
     "timeMonth": 906,
     "timeYear": 1669,
     "dailyMinutesDown": {
-      "2023-09-17": 8,
       "2023-09-12": 15,
       "2023-09-08": 56,
       "2023-09-07": 18,
@@ -36,7 +35,7 @@
       "2023-08-16": 147,
       "2023-08-15": 854,
       "2023-08-14": 898,
-      "2023-08-13": 344
+      "2023-08-13": 378
     }
   },
   {
@@ -46,9 +45,9 @@
     "slug": "slaw-main-site-www",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "97.14%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.16%",
     "uptimeYear": "99.30%",
     "time": 2745,
     "timeDay": 1271,
@@ -56,7 +55,6 @@
     "timeMonth": 815,
     "timeYear": 2840,
     "dailyMinutesDown": {
-      "2023-09-17": 8,
       "2023-09-07": 17,
       "2023-08-29": 53,
       "2023-08-28": 323,
@@ -74,7 +72,7 @@
       "2023-08-16": 33,
       "2023-08-15": 812,
       "2023-08-14": 976,
-      "2023-08-13": 541
+      "2023-08-13": 562
     }
   },
   {
