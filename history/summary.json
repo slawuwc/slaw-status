@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/slawuwc.org.ico",
     "slug": "slaw-main-site",
     "status": "down",
-    "uptime": "56.60%",
+    "uptime": "56.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-03-07": 42,
+      "2025-03-08": 33,
+      "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
@@ -348,8 +349,7 @@
       "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
-      "2024-03-09": 1440,
-      "2024-03-08": 1440
+      "2024-03-09": 1440
     }
   },
   {
@@ -358,18 +358,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.slawuwc.org.ico",
     "slug": "slaw-main-site-www",
     "status": "down",
-    "uptime": "56.57%",
+    "uptime": "56.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "8.75%",
-    "time": 1750,
+    "time": 1757,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-03-07": 42,
+      "2025-03-08": 33,
+      "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
@@ -701,8 +702,7 @@
       "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
-      "2024-03-09": 1440,
-      "2024-03-08": 1440
+      "2024-03-09": 1440
     }
   },
   {
@@ -711,18 +711,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/discover.slawuwc.org.ico",
     "slug": "slaw-discover",
     "status": "down",
-    "uptime": "86.48%",
+    "uptime": "86.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "65.39%",
+    "uptimeYear": "65.11%",
     "time": 198,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-03-07": 42,
+      "2025-03-08": 33,
+      "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
