@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/slawuwc.org.ico",
     "slug": "slaw-main-site",
     "status": "down",
-    "uptime": "53.61%",
+    "uptime": "53.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-04-28": 47,
+      "2025-04-29": 45,
+      "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -348,8 +349,7 @@
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
-      "2024-04-30": 1440,
-      "2024-04-29": 1440
+      "2024-04-30": 1440
     }
   },
   {
@@ -358,18 +358,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.slawuwc.org.ico",
     "slug": "slaw-main-site-www",
     "status": "down",
-    "uptime": "53.59%",
+    "uptime": "53.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "8.75%",
-    "time": 527,
+    "time": 523,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-04-28": 47,
+      "2025-04-29": 45,
+      "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -701,8 +702,7 @@
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
-      "2024-04-30": 1440,
-      "2024-04-29": 1440
+      "2024-04-30": 1440
     }
   },
   {
@@ -711,18 +711,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/discover.slawuwc.org.ico",
     "slug": "slaw-discover",
     "status": "down",
-    "uptime": "81.92%",
+    "uptime": "81.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.14%",
+    "uptimeYear": "50.87%",
     "time": 199,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 211,
+    "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-04-28": 47,
+      "2025-04-29": 45,
+      "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
