@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/slawuwc.org.ico",
     "slug": "slaw-main-site",
     "status": "down",
-    "uptime": "49.41%",
+    "uptime": "49.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-07-21": 55,
+      "2025-07-22": 52,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -348,8 +349,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
-      "2024-07-23": 1440,
-      "2024-07-22": 1440
+      "2024-07-23": 1440
     }
   },
   {
@@ -358,7 +358,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.slawuwc.org.ico",
     "slug": "slaw-main-site-www",
     "status": "down",
-    "uptime": "49.39%",
+    "uptime": "49.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -369,7 +369,8 @@
     "timeMonth": 0,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-07-21": 55,
+      "2025-07-22": 52,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -701,8 +702,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
-      "2024-07-23": 1440,
-      "2024-07-22": 1440
+      "2024-07-23": 1440
     }
   },
   {
@@ -711,18 +711,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/discover.slawuwc.org.ico",
     "slug": "slaw-discover",
     "status": "down",
-    "uptime": "75.50%",
+    "uptime": "75.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "28.12%",
+    "uptimeYear": "27.85%",
     "time": 204,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-07-21": 55,
+      "2025-07-22": 52,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
