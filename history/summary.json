@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/slawuwc.org.ico",
     "slug": "slaw-main-site",
     "status": "down",
-    "uptime": "48.95%",
+    "uptime": "48.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-07-31": 53,
+      "2025-08-01": 59,
+      "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -348,8 +349,7 @@
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
-      "2024-08-02": 1440,
-      "2024-08-01": 1440
+      "2024-08-02": 1440
     }
   },
   {
@@ -358,7 +358,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.slawuwc.org.ico",
     "slug": "slaw-main-site-www",
     "status": "down",
-    "uptime": "48.93%",
+    "uptime": "48.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -369,7 +369,8 @@
     "timeMonth": 0,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-07-31": 53,
+      "2025-08-01": 59,
+      "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -701,8 +702,7 @@
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
-      "2024-08-02": 1440,
-      "2024-08-01": 1440
+      "2024-08-02": 1440
     }
   },
   {
@@ -711,18 +711,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/discover.slawuwc.org.ico",
     "slug": "slaw-discover",
     "status": "down",
-    "uptime": "74.80%",
+    "uptime": "74.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.38%",
+    "uptimeYear": "25.11%",
     "time": 207,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 230,
+    "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-07-31": 53,
+      "2025-08-01": 59,
+      "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
