@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/slawuwc.org.ico",
     "slug": "slaw-main-site",
     "status": "down",
-    "uptime": "47.16%",
+    "uptime": "47.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-09-10": 43,
+      "2025-09-11": 43,
+      "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
@@ -348,8 +349,7 @@
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
-      "2024-09-12": 1440,
-      "2024-09-11": 1440
+      "2024-09-12": 1440
     }
   },
   {
@@ -358,7 +358,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.slawuwc.org.ico",
     "slug": "slaw-main-site-www",
     "status": "down",
-    "uptime": "47.14%",
+    "uptime": "47.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -369,7 +369,8 @@
     "timeMonth": 0,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-09-10": 43,
+      "2025-09-11": 43,
+      "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
@@ -701,8 +702,7 @@
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
-      "2024-09-12": 1440,
-      "2024-09-11": 1440
+      "2024-09-12": 1440
     }
   },
   {
@@ -711,18 +711,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/discover.slawuwc.org.ico",
     "slug": "slaw-discover",
     "status": "down",
-    "uptime": "72.06%",
+    "uptime": "72.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "14.15%",
+    "uptimeYear": "13.88%",
     "time": 212,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 252,
+    "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-09-10": 43,
+      "2025-09-11": 43,
+      "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
